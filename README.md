@@ -1,7 +1,8 @@
 # Tech Academy Basic C-Sharp Projects
  First C Sharp Projects
 ## Introduction
-This directory will contain the software developer bootcamp work through learning C#.
+This repository will contain the C# course work through the software developer bootcamp.
+
 
 ## Section 1
 * [Project A](#project-a)
