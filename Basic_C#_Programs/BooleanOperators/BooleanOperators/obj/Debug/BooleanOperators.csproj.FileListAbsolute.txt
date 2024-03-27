@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.pdb

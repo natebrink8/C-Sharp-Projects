@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LoopsVideoETC\LoopsVideoETC\bin\Debug\LoopsVideoETC.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LoopsVideoETC\LoopsVideoETC\bin\Debug\LoopsVideoETC.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LoopsVideoETC\LoopsVideoETC\bin\Debug\LoopsVideoETC.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LoopsVideoETC\LoopsVideoETC\obj\Debug\LoopsVideoETC.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LoopsVideoETC\LoopsVideoETC\obj\Debug\LoopsVideoETC.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LoopsVideoETC\LoopsVideoETC\obj\Debug\LoopsVideoETC.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LoopsVideoETC\LoopsVideoETC\obj\Debug\LoopsVideoETC.pdb

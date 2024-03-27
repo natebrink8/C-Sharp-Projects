@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("The Tech Academy.");             // Write "The Tech Academy."
+        Console.WriteLine("The Tech Academy.");             // Write "The Tech Academy".
         Console.WriteLine("Student Daily Report.");         // Write "Student Daily Report."
 
         Console.WriteLine("What is your name?");            // Ask student for their name.
