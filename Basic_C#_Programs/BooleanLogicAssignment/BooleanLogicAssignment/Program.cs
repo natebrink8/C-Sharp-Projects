@@ -16,7 +16,7 @@ class Program
         string tickets = Console.ReadLine();            // Create variable to read the string input.
         int tickets1 = Convert.ToInt32(tickets);        // Create integer variable, converting from the string variable.
 
-        bool qualified = (age1 > 15 && dui1 == false && tickets1 < 3);  // Boolean variable equals above 3 variables AND AND AND check.
+        bool qualified = (age1 > 15 && dui1 == false && tickets1 <= 3);  // Boolean variable equals above 3 variables AND AND AND check.
         Console.WriteLine("Qualified: " + qualified);   // Display true or false, if qualified.
 
 
