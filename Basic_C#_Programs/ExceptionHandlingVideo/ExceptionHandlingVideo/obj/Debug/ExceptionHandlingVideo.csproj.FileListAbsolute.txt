@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\bin\Debug\ExceptionHandlingVideo.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\bin\Debug\ExceptionHandlingVideo.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\bin\Debug\ExceptionHandlingVideo.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.pdb

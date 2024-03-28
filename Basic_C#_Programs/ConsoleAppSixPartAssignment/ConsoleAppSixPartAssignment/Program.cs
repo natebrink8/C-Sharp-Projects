@@ -51,11 +51,11 @@ class Program
 // A loop where the comparison used to determine whether to continue iterating the loop is a < operator.
         int[] outdoorTemp = { 30, 40, 50, 60, 70, 80, 90, 100 };    // Set int array of temperature values.
 
-        foreach (int temp in outdoorTemp)       // Foreach loop for temperatures in the array.
+        for (int i = 0; i < outdoorTemp.Length; i++)       // Foreach loop for temperatures in the array.
         {
-            if (temp < 60)      // If the temperature is less than 60...
+            if (outdoorTemp[i] < 60)      // If the temperature is less than 60...
             {
-                Console.WriteLine("The outdoor temperature average is " + temp + "... do you live in the Northwest, too?"); // Display some weather related small-talk.
+                Console.WriteLine("The outdoor temperature average is " + outdoorTemp[i] + "... do you live in the Northwest, too?"); // Display some weather related small-talk.
             }
         }
         Console.WriteLine("\r");        // Line break to separate the console view.
@@ -63,11 +63,11 @@ class Program
 // Add another loop where the comparison that's used to determine whether to continue iterating the loop is a <= operator.
         int[] outdoorTemp2 = { 30, 40, 50, 60, 70, 80, 90, 100 };   // Set int array of temperature values.
 
-        foreach (int temp2 in outdoorTemp2)     // Foreach loop for temperatures in the array.
+        for (int i = 0; i <= 7; i++)               // Foreach loop for temperatures in the array.
         {
-            if (temp2 <= 40)    // If the temperature is less than or equal to 40...
+            if (outdoorTemp2[i] <= 40)    // If the temperature is less than or equal to 40...
             {
-                Console.WriteLine("The outdoor temperature is " + temp2 + "... oh my, it's cold!");      // Display more weather related small-talk!
+                Console.WriteLine("The outdoor temperature is " + outdoorTemp2[i] + "... oh my, it's cold!");      // Display more weather related small-talk!
             }
         }
         Console.WriteLine("\r");        // Line break to separate the console view.
@@ -93,7 +93,7 @@ class Program
             }
         if (teamFound)                              // If the teamFound flag is true...
         {
-            Console.WriteLine("We found the " + teamSearch + " - perfect!");    // Display the found team message.
+            Console.WriteLine("We found the " + teamSearch + " - perfect! " + "Index number was: " + footballTeams.IndexOf(teamSearch));    // Display the found team message.
         }
         else
         {
@@ -118,23 +118,12 @@ class Program
             if (mascotSearch == collegeMascots[i])          // If the searched mascot name quals a mascot name in the list...
             {
                 mascotFound = true;                 // Set the mascotFound flag to true.
+                Console.WriteLine("The mascot searched for was found at index: " + i);    // Display the duplicate message for the Huskies.
             }
-        if (mascotFound)                            // If the mascotFound flag is true...
-        {
-            if (mascotSearch == "Huskies")          // If the mascot searched for was the Huskies...
-            {
-                Console.WriteLine("More than one college has the Huskies as their mascot!");    // Display the duplicate message for the Huskies.
-            }
-            else
-            {
-                Console.WriteLine("You've found a unique college mascot!");     // Else display the unique college mascot message.
-            }
-            
-        }
-        else
-        {
+        if (!mascotFound)                            // If the mascotFound flag is true...
 // Add code to the loop to check if the user put in text that isn't on the list and,
 // if they did, tells the user their input is not on the list. (NO MULLIGANS!)
+        {
             Console.WriteLine("The " + mascotSearch + " are not on the list of college mascots.");      // Display message for mascotSearch values not in the list.
         }
         Console.WriteLine("\r");        // Line break to separate the console view.
@@ -144,28 +133,28 @@ class Program
 // Create a list of strings that has at least two identical strings in the list.
         List<string> favoriteDrinks = new List<string>() { "Water", "Juice", "Soda", "Beer", "Beer", "Wine", "Wine" };   // Create a list of strings with >2 identical strings.
 
-// Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether it has already appeared
-// in the list. For example, if you had a list of letters: {“A”, “B”, “C”, “D”, “C”}, you could have the following print to the screen:
-//A - this item is unique
-//B - this item is unique
-//C - this item is unique
-//D - this item is unique
-//C - this item is a duplicate
-        var myDrinks = new List<string>();          // Set variable for list of drinks, for unique values.
-        var dupeDrinks = new List<string>();        // Set variable for list of drinks, for duplicate values.
+        // Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether it has already appeared
+        // in the list. For example, if you had a list of letters: {“A”, “B”, “C”, “D”, “C”}, you could have the following print to the screen:
+        //A - this item is unique
+        //B - this item is unique
+        //C - this item is unique
+        //D - this item is unique
+        //C - this item is a duplicate
 
-        foreach (var drink in favoriteDrinks)       // Foreach var drink in the favoriteDrinks list...
+        var fridge = new List<string>();          // Set variable for list of drinks, for unique values.
+
+        foreach (string drink in favoriteDrinks)
         {
-            if (!myDrinks.Contains(drink))          // If the drink is unique, it is in the myDrinks list...
-                myDrinks.Add(drink);
+            if (fridge.Contains(drink))
+            {
+                Console.WriteLine(drink + "\t is a duplicate item.");
+            }
             else
-                dupeDrinks.Add(drink);              // Else add the drink to dupeDrinks list.
+            {
+                Console.WriteLine(drink + "\t is a unique item.");
+                fridge.Add(drink);
+            }        
         }
-        foreach (var drink in myDrinks)             // Foreach drink in the unique myDrinks list...
-            Console.WriteLine(drink + ": \tThis item is unique.");      // Write the unique list item.
-
-        foreach (var drink in dupeDrinks)           // Foreach drink in the duplicate dupeDrinks list...
-            Console.WriteLine(drink + ": \tThis item is a duplicate."); // Write the duplicate list item.
 
 
         Console.ReadLine();                         // Make with the reading!
