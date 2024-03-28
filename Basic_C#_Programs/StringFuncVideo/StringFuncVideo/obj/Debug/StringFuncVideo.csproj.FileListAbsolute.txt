@@ -1,0 +1,6 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringFuncVideo\StringFuncVideo\bin\Debug\StringFuncVideo.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringFuncVideo\StringFuncVideo\bin\Debug\StringFuncVideo.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringFuncVideo\StringFuncVideo\bin\Debug\StringFuncVideo.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringFuncVideo\StringFuncVideo\obj\Debug\StringFuncVideo.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringFuncVideo\StringFuncVideo\obj\Debug\StringFuncVideo.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringFuncVideo\StringFuncVideo\obj\Debug\StringFuncVideo.pdb
