@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationVideo", "IterationVideo\IterationVideo.csproj", "{5160D22C-264F-4A1E-9B06-5CB246A6D48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5160D22C-264F-4A1E-9B06-5CB246A6D48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5160D22C-264F-4A1E-9B06-5CB246A6D48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5160D22C-264F-4A1E-9B06-5CB246A6D48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5160D22C-264F-4A1E-9B06-5CB246A6D48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6DA92F7-C681-4786-9DBD-D7ACA2CC8FA6}
+	EndGlobalSection
+EndGlobal

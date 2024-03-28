@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\ConsoleAppSixPartAssignment.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\ConsoleAppSixPartAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\bin\Debug\ConsoleAppSixPartAssignment.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ConsoleAppSixPartAssignment\ConsoleAppSixPartAssignment\obj\Debug\ConsoleAppSixPartAssignment.pdb
