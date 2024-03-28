@@ -1,0 +1,6 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
