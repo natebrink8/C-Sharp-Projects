@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
