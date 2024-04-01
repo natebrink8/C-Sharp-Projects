@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassSubmissionAssignment
 {
-    class Wheee
+    public static class Wheee
     {
         public static int Cling(int a)
         {

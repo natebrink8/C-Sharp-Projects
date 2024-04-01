@@ -34,7 +34,6 @@ namespace ClassSubmissionAssignment
             Console.WriteLine("This is the value of str2 in Main after my method: " + str2);
 
 // Static class:
-            Wheee wheee = new Wheee();
             int a = 12;
             Console.WriteLine("12 minus 2 equals " + Wheee.Cling(a));
 
