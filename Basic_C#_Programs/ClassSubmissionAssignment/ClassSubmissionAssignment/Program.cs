@@ -22,6 +22,22 @@ namespace ClassSubmissionAssignment
             Console.WriteLine("\r");
 
 
+            // Call the out parameters:
+            string str1 = "Joe";
+            string str2 = "Smith";
+            Console.WriteLine("This is the value of str1 in Main: " + str1);
+            Console.WriteLine("This is the value of str2 in Main: " + str2);
+
+            // Calls the method and references the string values:
+            Console.WriteLine("This is my method returned: " + math.Methy2(out str1, str2));
+            Console.WriteLine("This is the value of str1 in Main after my method: " + str1);
+            Console.WriteLine("This is the value of str2 in Main after my method: " + str2);
+
+// Static class:
+            Wheee wheee = new Wheee();
+            int a = 12;
+            Console.WriteLine("12 minus 2 equals " + Wheee.Cling(a));
+
             Console.ReadLine();
         }
     }

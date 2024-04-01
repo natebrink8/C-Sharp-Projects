@@ -15,28 +15,22 @@ namespace ClassSubmissionAssignment
             Console.WriteLine(i = i / 2);
         }
 
-// 4. Create a method with output parameters:
-        // note: created a method with parameters to provide output;
-        // I find an "OUT" coding option online but am unfamiliar:
+// Create a method:
         public int Methy2(int par1, int par2)
         {
             int parpar = par1 * par2;
             return parpar;
         }
 
+// 4. Create a method with output parameters.
 // 5. Overload a method.
-        //Same method name used w/strings to concatenate the 2 values:
-        public string Methy2(string str1, string str2)
-        {
-            string strstr = str1 + str2;
-            return strstr;
-        }
 
-// 6. Declare a class to be static.
-        // Static class created; unable to be instantiated in Program:
-        static int Methy3(int par3, int par4)
+        //Same method name used w/strings to concatenate the 2 values:
+        public string Methy2(out string str1, string str2)
         {
-            return par3 + par4;
+            str1 = "Nate";
+            str2 = "Brink";
+            return str2;
         }
     }
 }
