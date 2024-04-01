@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\MethodSubmissionAssignment2\MethodSubmissionAssignment2\bin\Debug\MethodSubmissionAssignment2.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\MethodSubmissionAssignment2\MethodSubmissionAssignment2\bin\Debug\MethodSubmissionAssignment2.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\MethodSubmissionAssignment2\MethodSubmissionAssignment2\bin\Debug\MethodSubmissionAssignment2.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\MethodSubmissionAssignment2\MethodSubmissionAssignment2\obj\Debug\MethodSubmissionAssignment2.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\MethodSubmissionAssignment2\MethodSubmissionAssignment2\obj\Debug\MethodSubmissionAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\MethodSubmissionAssignment2\MethodSubmissionAssignment2\obj\Debug\MethodSubmissionAssignment2.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\MethodSubmissionAssignment2\MethodSubmissionAssignment2\obj\Debug\MethodSubmissionAssignment2.pdb
