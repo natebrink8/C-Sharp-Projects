@@ -6,16 +6,21 @@ using System.Threading.Tasks;
 
 namespace TwentyOneVideos
 {
-    public class Game
+    // An example of a base class or an abstract class.
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
-        {
-            foreach (string player in Players) ;
+        public abstract void Play();
 
+        public virtual void ListPlayers()
+        {
+            foreach (string player in Players)
+            {
+                Console.WriteLine(player);
+            }
         }
 
     }
