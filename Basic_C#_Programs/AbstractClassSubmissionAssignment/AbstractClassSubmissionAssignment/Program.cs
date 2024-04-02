@@ -20,6 +20,11 @@ namespace AbstractClassSubmissionAssignment
 
             Console.WriteLine("Test name is: " + employee.SayName(first, last));
 
+// POLYMORPHISM SUBMISSION ASSIGNMENT: 3. Use polymorphism to create
+// an object of type IQuittable and call the Quit() method on it.
+// Hint: an object can be of an interface type if it implements that specific interface:
+            employee.Quit(employee);
+
             Console.ReadLine();
         }
     }
