@@ -14,10 +14,7 @@ namespace AbstractClassSubmissionAssignment
         public string lastName { get; set; }
 
         // 2. Give it the method SayName().
-        public virtual string SayName(string firstName, string lastName)
-        {
-            return firstName + lastName;
-        }
+        public abstract string SayName(string firstName, string lastName);
 
     }
 }
