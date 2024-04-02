@@ -9,6 +9,6 @@ namespace TwentyOneVideos
     interface IWalkAway
     {
         // Multiple inheritances of Interfaces can be performed.
-        public void WalkAway(Player player);
+        void WalkAway(Player player);
     }
 }

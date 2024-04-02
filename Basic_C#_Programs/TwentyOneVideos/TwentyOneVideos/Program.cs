@@ -10,19 +10,22 @@ namespace TwentyOneVideos
     {
         static void Main(string[] args)
         {
-            TwentyOneGame twentyone = new TwentyOneGame();
-            twentyone.Players = new List<string>() { "Jesse", "Nate", "Josh" };
-            twentyone.ListPlayers();
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Nate";
+            game += player;
+            game -= player;
 
+            Deck deck = new Deck();
+            deck.Shuffle(3);
 
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
 
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
 
 
 
@@ -30,3 +33,8 @@ namespace TwentyOneVideos
         }
     }
 }
+
+
+// TwentyOneGame twentyone = new TwentyOneGame();
+// twentyone.Players = new List<string>() { "Jesse", "Nate", "Josh" };
+// twentyone.ListPlayers();
