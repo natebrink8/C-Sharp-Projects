@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.pdb
