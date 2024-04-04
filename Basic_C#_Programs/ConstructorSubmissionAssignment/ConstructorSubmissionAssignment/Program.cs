@@ -10,12 +10,20 @@ namespace ConstructorSubmissionAssignment
     {
         static void Main(string[] args)
         {
-            //Flyer flyer = new Flyer();
-            // 2. Create a variable using the keyword "var."
+// 2. Create a variable using the keyword "var."
             Console.WriteLine("Please enter your Username.");
             var usernameInput = Console.ReadLine();
+// 1. Create a const variable.
+            const string welcome = "Welcome to our family!";
 
-            Console.WriteLine("Welcome to " + Flyer.airline + ", " + usernameInput + "!");
+            Flyer obj1 = new Flyer(usernameInput);
+            Console.WriteLine(welcome + " " + obj1.username + " " + obj1.airline);
+            
+            Flyer obj2 = new Flyer("nbrink");
+            Console.WriteLine(welcome + " " + obj2.username + " " + obj2.airline);
+
+            Flyer obj3 = new Flyer("ajahns", "Portland Airlines");
+            Console.WriteLine(welcome + " " + obj3.username + " " + obj3.airline);
 
 
             Console.ReadLine();

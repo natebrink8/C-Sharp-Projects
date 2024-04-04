@@ -8,16 +8,16 @@ namespace ConstructorSubmissionAssignment
 {
     public class Flyer
     {   // SEATTLE Airlines!
-        // 1. Create a const variable.
         public string username;
-        public const string airline = "Seattle Airlines";
+        public string airline = "Seattle Airlines";
 
-        // 3. Chain two constructors together.
-        public Flyer(string username) : this(username, airline)
+// 3. Chain two constructors together.
+        public Flyer(string username) : this(username, "Seattle Airlines")
         { }
         public Flyer(string username, string airline)
         {
             this.username = username;
+            this.airline = airline;
         }
 
     }
