@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb
