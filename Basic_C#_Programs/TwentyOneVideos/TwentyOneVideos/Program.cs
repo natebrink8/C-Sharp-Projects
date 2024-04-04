@@ -11,6 +11,7 @@ namespace TwentyOneVideos
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Welcome to the Snookumz Hotel & Casino! Let's start by getting your name.");
             string playerName = Console.ReadLine();
             
