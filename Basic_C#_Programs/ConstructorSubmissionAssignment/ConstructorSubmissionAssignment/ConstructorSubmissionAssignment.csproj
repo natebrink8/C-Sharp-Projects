@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{54EEA480-3592-48CA-A9C1-4D3716A8FFCA}</ProjectGuid>
+    <ProjectGuid>{13B7DCDC-CDA0-46C3-82AA-4DD9E0866F6D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOneVideos</RootNamespace>
-    <AssemblyName>TwentyOneVideos</AssemblyName>
+    <RootNamespace>ConstructorSubmissionAssignment</RootNamespace>
+    <AssemblyName>ConstructorSubmissionAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Flyer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Casino\Casino.csproj">
-      <Project>{15FE4065-67E0-4F6C-981C-64F0D14D36DB}</Project>
-      <Name>Casino</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

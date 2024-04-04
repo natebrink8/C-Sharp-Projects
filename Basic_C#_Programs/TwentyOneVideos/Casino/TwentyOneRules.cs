@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneVideos
+namespace Casino
 {
     public class TwentyOneRules
     {
@@ -77,9 +77,11 @@ namespace TwentyOneVideos
 
             int playerScore = playerResults.Where(x => x < 22).Max();
             int dealerScore = dealerResults.Where(x => x < 22).Max();
+            //int dealerBusted = dealerResults.Where(x => x > 21).Max();  // ADDED for Dealer busting.
 
             if (playerScore > dealerScore) return true;
             else if (playerScore < dealerScore) return false;
+            //else if (dealerBusted > playerScore) return true;      // ADDED for Dealer busting; accounts for dealer being gt 21 and player being lt 22.
             else return null;
         }
     }

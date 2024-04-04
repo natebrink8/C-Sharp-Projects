@@ -5,3 +5,6 @@ C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Pro
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\TwentyOneVideos\obj\Debug\TwentyOneVideos.csproj.CoreCompileInputs.cache
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\TwentyOneVideos\obj\Debug\TwentyOneVideos.exe
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\TwentyOneVideos\obj\Debug\TwentyOneVideos.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\TwentyOneVideos\bin\Debug\Casino.dll
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\TwentyOneVideos\bin\Debug\Casino.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\TwentyOneVideos\obj\Debug\TwentyOneVideos.csproj.CopyComplete

@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace TwentyOneVideos
+namespace Casino
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -103,6 +104,7 @@ namespace TwentyOneVideos
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
@@ -122,7 +124,7 @@ namespace TwentyOneVideos
             }
             if (Dealer.isBusted)
             {
-                Console.WriteLine("Dealer Busted!");
+                Console.WriteLine("Dealer Busted!");        // DID NOT ASK if I wanted to play again.
                 foreach (KeyValuePair<Player, int> entry in Bets)
                 {
                     Console.WriteLine("{0} won {1}!", entry.Key.Name, entry.Value);
@@ -131,7 +133,7 @@ namespace TwentyOneVideos
                 }
                 return;
             }
-            foreach (Player player in Players)
+            foreach (Player player in Players)  // THIS BLOCK should cover the above issue, but doesn't.
             {
                 bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand);
                 if (playerWon == null)
@@ -150,7 +152,7 @@ namespace TwentyOneVideos
                     Console.WriteLine("Dealer wins {0}!", Bets[player]);
                     Dealer.Balance += Bets[player];
                 }
-                Console.WriteLine("Play again?");
+                Console.WriteLine("Play again?");       // COULD BE copy/pasted above?
                 string answer = Console.ReadLine().ToLower();
                 if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
                 {
