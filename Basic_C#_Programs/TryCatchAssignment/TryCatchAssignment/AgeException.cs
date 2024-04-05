@@ -13,14 +13,14 @@ namespace TryCatchAssignment
         public AgeException(string message)
             : base(message) { }
 
-        public int AgeInputValue { get; set; }
-        public bool PositiveAge()
-        {
-            if (AgeInputValue <= 0)
-            {
-                return true;
-            }
-            else return false;
-        }
+        //public int AgeInputValue { get; set; }
+        //public bool PositiveAge()
+        //{
+        //    if (AgeInputValue >= 0)
+        //    {
+        //        return true;
+        //    }
+        //    else return false;
+        //}
     }
 }
