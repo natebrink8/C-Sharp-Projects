@@ -1,0 +1,7 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb

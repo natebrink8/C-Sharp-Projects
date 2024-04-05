@@ -34,7 +34,11 @@ namespace Casino
                     validAnswer = int.TryParse(Console.ReadLine(), out bet);
                     if (!validAnswer) Console.WriteLine("Please enter digits only (no symbols or decimals.)");
                 }
-                bool successfullyBet = player.Bet(bet);
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
+                bool successfullyBet = player.Bet(bet); 
                 if (!successfullyBet)
                 {
                     return;
