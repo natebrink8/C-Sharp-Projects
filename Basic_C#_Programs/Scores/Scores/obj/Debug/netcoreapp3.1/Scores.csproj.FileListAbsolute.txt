@@ -1,0 +1,14 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
