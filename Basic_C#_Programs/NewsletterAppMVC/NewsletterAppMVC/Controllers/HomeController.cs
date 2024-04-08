@@ -12,8 +12,6 @@ namespace NewsletterAppMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string connectionString = @"Data Source=NatesYOGA\SQLEXPRESS;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-
         public ActionResult Index()
         {
             return View();
@@ -38,32 +36,9 @@ namespace NewsletterAppMVC.Controllers
 
                     db.SignUps.Add(signup);
                     db.SaveChanges();
-                    // Line 40 throws an error: Message=Unable to update the EntitySet
-                    // 'SignUps' because it has a DefiningQuery and no <InsertFunction>
-                    // element exists in the <ModificationFunctionMapping> element to
-                    // support the current operation.
                 }
+                
                 return View("Success");
-            }
-        }
-
-        public ActionResult Admin()
-        {
-            using (NewsletterEntities db = new NewsletterEntities())
-            {
-                var signups = db.SignUps;
-                var signupVms = new List<SignupVm>();
-                foreach (var signup in signups)
-                {
-                    var signupVm = new SignupVm();
-                    signupVm.FirstName = signup.FirstName;
-                    signupVm.LastName = signup.LastName;
-                    signupVm.EmailAddress = signup.EmailAddress;
-
-                    signupVms.Add(signupVm);
-                }
-
-                return View(signupVms);
             }
         }
     }
