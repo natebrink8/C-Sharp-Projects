@@ -4,18 +4,18 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Data.Entity;
 
-namespace LMSStep549CodeFirstEFConsoleApp3.DbModels
+namespace LMSStep549CodeFirstEFConsoleApp3
 {
     public class DataContext : DbContext
     {
-        public DataContext(string connectionString) : base(connectionString)
+        public DataContext( ) : base()
         {
 
         }
 
-        public virtual DbSet<Estudiante> Estudiantes { get; set; }
+        public DbSet<Estudiante> Estudiantes { get; set; }
 
-        public virtual DbSet<EstudiantePermission> EstudiantePermissions { get; set; }
+        public DbSet<EstudiantePermission> EstudiantePermissions { get; set; }
 
     }
 }

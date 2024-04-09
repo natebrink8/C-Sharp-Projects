@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LMSStep549CodeFirstEFConsoleApp3.DbModels
+namespace LMSStep549CodeFirstEFConsoleApp3
 {
     public class Estudiante
     {

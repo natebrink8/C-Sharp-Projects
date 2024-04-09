@@ -5,7 +5,6 @@ C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Pro
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LMSStep549CodeFirstEFConsoleApp3\LMSStep549CodeFirstEFConsoleApp3\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LMSStep549CodeFirstEFConsoleApp3\LMSStep549CodeFirstEFConsoleApp3\bin\Debug\EntityFramework.xml
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LMSStep549CodeFirstEFConsoleApp3\LMSStep549CodeFirstEFConsoleApp3\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LMSStep549CodeFirstEFConsoleApp3\LMSStep549CodeFirstEFConsoleApp3\obj\Debug\LMSStep549CodeFirstEFConsoleApp3.csproj.AssemblyReference.cache
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LMSStep549CodeFirstEFConsoleApp3\LMSStep549CodeFirstEFConsoleApp3\obj\Debug\LMSStep549CodeFirstEFConsoleApp3.csproj.CoreCompileInputs.cache
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LMSStep549CodeFirstEFConsoleApp3\LMSStep549CodeFirstEFConsoleApp3\obj\Debug\LMSStep549CodeFirstEFConsoleApp3.csproj.CopyComplete
 C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\LMSStep549CodeFirstEFConsoleApp3\LMSStep549CodeFirstEFConsoleApp3\obj\Debug\LMSStep549CodeFirstEFConsoleApp3.exe
