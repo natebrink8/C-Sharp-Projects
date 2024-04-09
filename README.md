@@ -1,5 +1,5 @@
 # .Public_Apps
-The public app code lives in this folder.<br>
+This folder contains public app code.<br>
 <br><br>
 # Basic_C#_Programs
-This folder just contains practice code, while studying C#.<br>
+This folder contains practice code from studying C#.<br>
