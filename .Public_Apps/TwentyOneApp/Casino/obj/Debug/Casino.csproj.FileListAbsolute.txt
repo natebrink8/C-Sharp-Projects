@@ -1,0 +1,6 @@
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\Casino\bin\Debug\Casino.dll
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\Casino\bin\Debug\Casino.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\Casino\obj\Debug\Casino.dll
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\Casino\obj\Debug\Casino.pdb
+C:\Users\ochob\OneDrive\Documents\GitHub\TTA_Basic_C-Sharp_Projects\Basic_C#_Programs\TwentyOneVideos\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
