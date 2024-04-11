@@ -1,5 +1,5 @@
 # .Public_Apps
-This folder contains public app code.<br>
+This folder contains apps and code worked on during the software developer bootcamp.<br>
 <br><br>
 # Basic_C#_Programs
-This folder contains practice code from studying C#.<br>
+This folder is a sandbox, with code from studying C#.<br>
